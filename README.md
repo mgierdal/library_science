@@ -8,6 +8,6 @@ Useful starting points:
 
 There are many tools, best practices, standards, and project case studies available for working on digital archive project.  
 
-It is important to consider resources able to commit to scanning, describing, and preserving the digitized content.
+It is important to consider resources available to be committed to scanning, describing, and preserving the digitized content.
 
 One of them would be a digital archivist (perhaps an intern from a Masters of Library and Information Science program).  
